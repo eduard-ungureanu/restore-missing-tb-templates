@@ -4,7 +4,7 @@
  * Plugin URI: https://github.com/eduard-ungureanu/restore-missing-tb-templates
  * Description: This plugin allows restoring any Missing Theme Builder templates
  * Version: 1.0
- * Author: Eduard Ungureanu
+ * Author: <a href="">Eduard Ungureanu</a> and <a href="https://www.linkedin.com/in/mdtanjid/">Mohammad Tanjid</a>
  * Author URI: https://divi.tech
  */
 

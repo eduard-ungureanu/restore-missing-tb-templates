@@ -18,7 +18,12 @@ Once the plugin is installed and activated you will see 3 new Custom Post Types 
 
 You can use the new options (custom post type), to check and restore any of the Theme Builder Templates areas like. Accessing the new areas: Header Templates, Body Templates, Footer Templates will give access to any tempaltes that were previously assing in Theme Builder. 
 
-Once you have identify the template areas, you can edit them just like any nomral post/pages and save them to your Divi Library.
+Once you have identify the template areas, you can edit them just like any nomral post/pages and save them to your Divi Library. 
+
+In the this Video: https://share.getcloudapp.com/8LuonlEj, the Custom Body template that was assigned to All Post Template in Theme Builder is being saved to the Divi Library. 
+
+Here is an example of how to save a Template Area to Divi Library: 
+
 
 
 

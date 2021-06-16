@@ -36,4 +36,4 @@ In Divi > Theme Builder, recreate each of the missing templates, assign them, an
 In this video, the template that is being recreated is for All Posts:  https://share.getcloudapp.com/p9uArB0E.
 
 ### Step 3
-Once everything is restore **please deactivate and delete the plugin from your server**
+Once everything is restore, **please, deactivate and delete the plugin from your server**.

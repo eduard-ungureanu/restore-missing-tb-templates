@@ -1,4 +1,4 @@
-# restore-missing-tb-templates
+# Divi Restore Theme Builder Templates
 WordPress Plugin for restoring Missing Theme Builder Templates
 
 Install the plugin to use for recovery of TB Templates **only**. Once all the missing templates are restored, makes sure the plugin is deactivate and deleted from your server.

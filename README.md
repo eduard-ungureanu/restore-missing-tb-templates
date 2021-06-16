@@ -10,6 +10,9 @@ Install the plugin to use for recovery of TB Templates **only**. Once all the mi
 4. Choose the zip file downloaded at step 1 
 
 ## How to use the Plugin
+
+#### Step 1
+
 Once the plugin is installed and activated you will see 3 new Custom Post Types in your dashboard:
 - Header Templates, 
 - Body Templates, 
@@ -22,19 +25,11 @@ Once you have identify the template areas, you can edit them just like any nomra
 
 In the this Video: https://share.getcloudapp.com/8LuonlEj, the Custom Body template that was assigned to All Post Template in Theme Builder is being saved to the Divi Library. 
 
-Here is an example of how to save a Template Area to Divi Library: 
+Note: it would be a good practice to prefix all the Templates Pars (Body, Header, Footer) with the name of that template part, in the previous video the **Body** prefix was used since that is a Custom Body Template. Keeping a consistent name, will help you to indentify each tempalte part (Custom Body, Custom Header, Custom Footer) easily.
 
+#### Step 2
+Once the templates parts were saved to the Divi Library the next step is to **recreate and reassign the missing template**.
 
+In Divi > Theme Builder, recreate each of the missing templates and assigned them and use the **Add from Divi Library** option to add back the templates part that were saved at step 1.
 
-
-there we can save them to Divi Library, and let the customer know that he can just reacreate the Assignments while loading each Tempalte part (body, header, footer) from Divi Library.
-
-Naming convention for saving the Theme Builder tempaltes to Divi Library
-- prefix the type of tempalte, for example **Body** -  and the name of the tempalte:
-
-Example:
-![image](https://user-images.githubusercontent.com/1719735/122015625-ee4b5600-cdc8-11eb-87df-98059211f978.png)
-
-In this example, the prefix **Body** was added since that was a Body Tempalte which was set for the Search Results.
-
-Keeping a consistent name, will help the user to indentify each tempalte part (body, footer, header) easily.
+In this video, the template that is being recreated is for All Posts: https://share.getcloudapp.com/p9uArB0E.

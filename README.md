@@ -11,7 +11,7 @@ Once all the missing templates are restored, make sure the Plugin is deactivated
 
 ## How to use the Plugin
 
-#### Step 1
+### Step 1
 
 Once the Plugin is installed and activated, you will see 3 new Custom Post Types in your dashboard:
 - Header Templates,
@@ -28,7 +28,7 @@ In this Video: https://share.getcloudapp.com/8LuonlEj, the Custom Body template 
 
 **Note:** it would be a good practice to prefix all the Templates Pars (Body, Header, Footer) with the name of that template part. In the previous video, the Body prefix was used since that is a Custom Body Template. Keeping a consistent name will quickly help you identify each template part (Custom Body, Custom Header, Custom Footer).
 
-#### Step 2
+### Step 2
 Once the template parts were saved to the Divi Library, the next step is to **recreate and reassign the missing template**.
 
 In Divi > Theme Builder, recreate each of the missing templates, assign them, and use the **Add from Divi Library** option to add back the part of the template saved at step 1.

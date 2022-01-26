@@ -10,7 +10,7 @@
 
 
  function modify_et_theme_builder_postypes( $post_type, $args ){
-	if ( 'et_header_layout' == $post_type || 'et_footer_layout' == $post_type || 'et_body_layout' == $post_type ) {	
+	if ( 'et_header_layout' == $post_type || 'et_footer_layout' == $post_type || 'et_body_layout' == $post_type || 'et_template' == $post_type) {	
 		global $wp_post_types;
 		$args->show_ui            	= true;
 		$args->public            	= true;

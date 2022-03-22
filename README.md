@@ -37,3 +37,17 @@ In this video, the template that is being recreated is for All Posts:  https://s
 
 ### Step 3
 Once everything is restored, **please, deactivate and delete the plugin from your server**.
+
+## Use the plugin on a Mutisite WordPress installation
+
+Make sure that the plugin is activated on a sub-site level and not on the Network Level
+
+
+## Know compatiblity issues:
+
+The plugin doesn't have support for multi language Websites. If 3rd party plugins such as:
+- WPML
+- Polylang
+- or anyother language plugin
+
+Are being used, to be able to access the new section from where the lost templates can be recovered, make sure that those plugins are deactivated first. Recover the tempaltes, and then activate back those translation plugins. 

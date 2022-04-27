@@ -24,7 +24,7 @@ You can use the new options (custom post type) to check and restore any Theme Bu
 
 Once you have identified the template areas, you can edit them just like any regular post/pages and save them to your Divi Library. 
 
-In this Video: https://www.dropbox.com/s/rvzvjvq4exseqhc/Screen%20Recording%202021-06-16%20at%2010.39.13%20AM.mp4?dl=0, the Custom Body template assigned to All Post Template in Theme Builder is saved to the Divi Library.
+In this Video: https://www.dropbox.com/s/s5fo3j0o3x9xn61/video-1.mp4?dl=0, the Custom Body template assigned to All Post Template in Theme Builder is saved to the Divi Library.
 
 **Note:** it would be a good practice to prefix all the Templates Pars (Body, Header, Footer) with the name of that template part. In the previous video, the Body prefix was used since that is a Custom Body Template. Keeping a consistent name will quickly help you identify each template part (Custom Body, Custom Header, Custom Footer).
 
@@ -33,7 +33,7 @@ Once the template parts were saved to the Divi Library, the next step is to **re
 
 In Divi > Theme Builder, recreate each of the missing templates, assign them, and use the **Add from Divi Library** option to add back the part of the template saved at step 1.
 
-In this video, the template that is being recreated is for All Posts:  https://www.dropbox.com/s/rvzvjvq4exseqhc/Screen%20Recording%202021-06-16%20at%2010.39.13%20AM.mp4?dl=0
+In this video, the template that is being recreated is for All Posts:  https://www.dropbox.com/s/xa4a6vdy3d84uik/video-2.mp4?dl=0
 
 ### Step 3
 Once everything is restored, **please, deactivate and delete the plugin from your server**.

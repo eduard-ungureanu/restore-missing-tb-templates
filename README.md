@@ -33,7 +33,7 @@ Once the template parts were saved to the Divi Library, the next step is to **re
 
 In Divi > Theme Builder, recreate each of the missing templates, assign them, and use the **Add from Divi Library** option to add back the part of the template saved at step 1.
 
-In this video, the template that is being recreated is for All Posts:  https://share.getcloudapp.com/p9uArB0E.
+In this video, the template that is being recreated is for All Posts:  https://www.dropbox.com/s/rvzvjvq4exseqhc/Screen%20Recording%202021-06-16%20at%2010.39.13%20AM.mp4?dl=0
 
 ### Step 3
 Once everything is restored, **please, deactivate and delete the plugin from your server**.

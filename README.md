@@ -18,7 +18,8 @@ Once the Plugin is installed and activated, you will see 3 new Custom Post Types
 - Body Templates,
 - Footer Templates. 
 
-![image](https://user-images.githubusercontent.com/1719735/119341471-78a60b80-bc9c-11eb-902c-7da1b9e373dd.png)
+![image](https://user-images.githubusercontent.com/1719735/213647370-c22db184-599d-4bf9-8404-d36943d2a3a9.png)
+
 
 You can use the new options (custom post type) to check and restore any Theme Builder Templates areas. Accessing the new areas: Header Templates, Body Templates, Footer Templates will give access to any template areas previously used in your Theme Builder Templates.
 

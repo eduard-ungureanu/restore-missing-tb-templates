@@ -42,6 +42,14 @@ Once everything is restored, **please, deactivate and delete the plugin from you
 
 Make sure that the plugin is activated on a sub-site level and not on the Network Level
 
+## Use Templates custom post type to clean up the Database
+The new addition `Template` is added to help cleaning up the Database. This option should be use only when the Theme Builder page is not loading. The reason is that there could be multiple instances of the same template saved in the database.
+
+### How to clean the database
+1. Open the Templates > All Templates
+2. Order all CPT (custom post types) by name
+3. Delete all duplicates except the most recent one
+
 
 ## Know compatiblity issues:
 

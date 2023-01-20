@@ -14,6 +14,7 @@ Once all the missing templates are restored, make sure the Plugin is deactivated
 ### Step 1
 
 Once the Plugin is installed and activated, you will see 3 new Custom Post Types in your dashboard:
+- Templates
 - Header Templates,
 - Body Templates,
 - Footer Templates. 
@@ -50,6 +51,9 @@ The new addition `Template` is added to help cleaning up the Database. This opti
 1. Open the Templates > All Templates
 2. Order all CPT (custom post types) by name
 3. Delete all duplicates except the most recent one
+
+## Misc
+If the WordPress installation is using Post Revisions, it is possible to use the WordPress Post Revisions on **Header Templates**, **Body Templates** and **Footer Templates** in order to revert changes that were done on those specific custom post types.
 
 
 ## Know compatiblity issues:
